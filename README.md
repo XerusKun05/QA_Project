@@ -107,8 +107,8 @@ pipelines** (future enhancement)
 ## 📬 Connect with Me
 
 -   🌐
-    [LinkedIn](https://www.linkedin.com/in/%3Cyour-linkedin-username%3E/)\
--   💻 [GitHub](https://github.com/%3Cyour-username%3E)
+    [LinkedIn](https://www.linkedin.com/in/)\
+-   💻 [GitHub](https://github.com/)
 
 ------------------------------------------------------------------------
 
