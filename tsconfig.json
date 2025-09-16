@@ -1,0 +1,28 @@
+{
+  "compilerOptions": {
+    // Modern JS features
+    "target": "es2017",
+    "lib": ["es2017", "dom"],
+
+    // Module resolution
+    "moduleResolution": "node",
+
+    // Debugging
+    "sourceMap": true,
+
+    // Type definitions
+    "types": ["cypress", "node"],
+
+    // Where to look for custom type declarations
+    "typeRoots": [
+      "./node_modules/@types",
+      "./cypress/support"
+    ],
+
+    // Base path for imports (optional but handy for page objects)
+    "baseUrl": "cypress"
+  },
+  "include": [
+    "cypress/**/*.ts"
+  ]
+}
