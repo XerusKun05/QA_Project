@@ -29,3 +29,7 @@ Thumbs.db
 *.swp
 
 how-to-set-up-clean-cypress
+
+
+# Ignore these folders
+archivedFiles/
